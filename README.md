@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Killian a french student
+- 👋 Hi, I’m Killian Fournier a french student
 - 👀 I'm passionate about cybersecurity, development, cloud computing, and more broadly in IT.
 - 🌱 I’m currently learning computer science in high school and will continue my studies in this field to become a Cybersecurity Expert.
 
